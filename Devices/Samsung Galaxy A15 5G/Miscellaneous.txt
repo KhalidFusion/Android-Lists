@@ -1,0 +1,10 @@
+com.facebook.appmanager //Meta App Manager
+com.facebook.katana //Facebook
+com.facebook.services //Meta Services
+com.facebook.system //Meta App Installer
+com.linkedin.android //LinkedIn
+com.microsoft.office.officehubrow //Microsoft 365
+com.microsoft.office.outlook //Outlook
+com.microsoft.skydrive //OneDrive
+com.netflix.mediaclient //Netflix
+com.spotify.music //Spotify
