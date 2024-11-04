@@ -1,5 +1,5 @@
 ## What is this?
-### This is a collection of packages that slow down, collect unnecessary information, or otherwise negatively impact you or your device. This mainly targets includes apps that come pre-installed when you buy your device. They are separated by developer.
+### This is a collection of packages that slow down, collect unnecessary information, or otherwise negatively impact you or your device. This mainly targets apps that come pre-installed when you buy your device.
 
 ## What devices are currently supported?
 ### Currently, only Samsung Devices are supported. More will be soon!
